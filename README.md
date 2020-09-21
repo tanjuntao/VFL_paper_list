@@ -17,3 +17,4 @@
 
 * Learning Privately over Distributed Features: An ADMM Sharing Approach [[paper](https://arxiv.org/abs/1907.07735)] [arxiv 1907]
 
+* Measure Contribution of Participants in Federated Learning [paper(https://arxiv.org/pdf/1909.08525.pdf)] [2019 IEEE International Conference on Big Data (Big Data)]
