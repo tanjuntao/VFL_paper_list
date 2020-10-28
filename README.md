@@ -1,5 +1,7 @@
 ## Vertical Federated Learning Paper Lists
 
+* **Privacy Preserving Vertical Federated Learning for Tree-based Models [[paper](https://arxiv.org/abs/2008.06170)] [**VLDB 2020]**
+
 * Private federated learning on vertically partitioned data via entity resolution and additively homomorphic encryption [[paper](https://arxiv.org/abs/1711.10677)] [arxiv 17.11]
 * Entity Resolution and Federated Learning get a Federated Resolution [[paper](https://arxiv.org/abs/1803.04035)] [arxiv 18.03]
 * SecureBoost: A Lossless Federated Learning Framework [[paper](https://arxiv.org/abs/1901.08755)] [arxiv 19.01]
