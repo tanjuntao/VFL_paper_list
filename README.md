@@ -1,7 +1,7 @@
 ## Vertical Federated Learning Paper Lists
 
-* **Faster Secure Data Mining via Distributed Homomorphic Encryption [[paper](https://arxiv.org/abs/2006.10091)] [KDD 2020]**
-* **Federated Doubly Stochastic Kernel Learning for Vertically Partitioned Data[[paper](https://arxiv.org/abs/2008.06197)] [KDD 2020]**
+* **Faster Secure Data Mining via Distributed Homomorphic Encryption [[paper](https://www.kdd.org/kdd2020/accepted-papers/view/faster-secure-data-mining-via-distributed-homomorphic-encryption)] [KDD 2020]**
+* **Federated Doubly Stochastic Kernel Learning for Vertically Partitioned Data [[paper](https://www.kdd.org/kdd2020/accepted-papers/view/federated-doubly-stochastic-kernel-learning-for-vertically-partitioned-data)] [KDD 2020]**
 * **Privacy Preserving Vertical Federated Learning for Tree-based Models [[paper](https://arxiv.org/abs/2008.06170)] [VLDB 2020]**
 * Private federated learning on vertically partitioned data via entity resolution and additively homomorphic encryption [[paper](https://arxiv.org/abs/1711.10677)] [arxiv 17.11]
 * Entity Resolution and Federated Learning get a Federated Resolution [[paper](https://arxiv.org/abs/1803.04035)] [arxiv 18.03]
