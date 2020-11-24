@@ -13,7 +13,7 @@
 * A Communication-Efficient Collaborative Learning Framework for Distributed Features [[paper](https://arxiv.org/abs/1912.11187)] [NIPS 2019 workshop]
 * Parallel Distributed Logistic Regression for Vertical Federated Learning without Third-Party Coordinator [[paper](https://arxiv.org/abs/1911.09824)] [IJCAI 2019 workshop]
 
-### arxiv 
+### arxiv
 
 * Optimization for Large-Scale Machine Learning with Distributed Features and Observations [[paper](https://arxiv.org/abs/1610.10060)] [arxiv 16.10]
 * Private federated learning on vertically partitioned data via entity resolution and additively homomorphic encryption [[paper](https://arxiv.org/abs/1711.10677)] [arxiv 17.11]
@@ -26,4 +26,9 @@
 * Asymmetrical Vertical Federated Learning [[paper](https://arxiv.org/abs/2004.07427)] [arxiv 20.04]
 * VAFL: a Method of Vertical Asynchronous Federated Learning [[paper](https://arxiv.org/abs/2007.06081)] [arxiv 20.07]
 * FederBoost: Private Federated Learning for GBDT [[paper](https://arxiv.org/abs/2011.02796)] [arxiv 20.11]
+
+### Old paper
+
+* [**2008**] - Privacy-preserving decision trees over vertically partitioned data [[paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.329.3951&rep=rep1&type=pdf)] [TKDD 2008]
+* [**2008**] - A Survey of Privacy-Preserving Methods Across Vertically Partitioned Data [[paper](https://www.sci-hub.ren/10.1007/978-0-387-70992-5_14)]
 
