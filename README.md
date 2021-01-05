@@ -6,6 +6,7 @@
 * **Federated Doubly Stochastic Kernel Learning for Vertically Partitioned Data [[paper](https://www.kdd.org/kdd2020/accepted-papers/view/federated-doubly-stochastic-kernel-learning-for-vertically-partitioned-data)] [KDD 2020]**
 * **Privacy Preserving Vertical Federated Learning for Tree-based Models [[paper](https://arxiv.org/abs/2008.06170)] [VLDB 2020]**
 * Measure Contribution of Participants in Federated Learning [[paper](https://arxiv.org/pdf/1909.08525.pdf)] [Big Data 2019]
+* **FDML: A collaborative machine learning framework for distributed features [[paper](https://www.kdd.org/kdd2019/accepted-papers/view/fdml-a-collaborative-machine-learning-framework-for-distributed-features)KDD 2019]**
 
 ### Workshops
 
@@ -28,11 +29,14 @@
 * FedMVT: Semi-supervised Vertical Federated Learning with MultiView Training [[paper](https://arxiv.org/pdf/2008.10838)] [arxiv 20.08]
 * Privacy-Preserving Asynchronous Federated Learning Algorithms for Multi-Party Vertically Collaborative Learning [[paper](https://arxiv.org/pdf/2008.06233.pdf)] [arxiv 20.08]
 * Hybrid Differentially Private Federated Learning on Vertically Partitioned Data [[paper](https://arxiv.org/pdf/2009.02763)] [arxiv 20.09]
+* A vertical federated learning method for interpretable scorecard and its application in credit scoring [arxiv 20.09]
 * Feature Inference Attack on Model Predictions in Vertical Federated Learning [[paper](https://arxiv.org/pdf/2010.10152)] [arxiv 20.10]
 * FederBoost: Private Federated Learning for GBDT [[paper](https://arxiv.org/abs/2011.02796)] [arxiv 20.11]
 * Privacy Leakage of Real-World Vertical Federated Learning [[paper](https://arxiv.org/pdf/2011.09290)] [arxiv 20.11]
 * Large-Scale Kernel Method for Vertical Federated Learning [[paper](https://link.springer.com/content/pdf/10.1007%2F978-3-030-63076-8.pdf)] [[Federated Learning - Privacy and Incentive ](https://www.springer.com/gp/book/9783030630751)] [20.11]
 * Asymmetric Private Set Intersection with Applications to Contact Tracing and Private Vertical Federated Machine Learning [[paper](https://arxiv.org/pdf/2011.09350)] [arxiv 20.11]
+* A homomorphic-encryption-based vertical federated learning scheme for rick management [arxiv 2020]
+* Accelerating intra-party communication in vertical federated learning [CoNEXT 2020]
 
 ### Papers on vertically partioned data
 
